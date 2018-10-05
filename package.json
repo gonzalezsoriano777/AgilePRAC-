@@ -1,0 +1,26 @@
+{
+  "name": "cronpk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalezsoriano777/AgilePRAC-.git"
+  },
+  "author": "\"Gonzalez Soriano\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalezsoriano777/AgilePRAC-/issues"
+  },
+  "homepage": "https://github.com/gonzalezsoriano777/AgilePRAC-#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "cron": "^1.4.1"
+  }
+}
